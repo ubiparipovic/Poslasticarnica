@@ -316,7 +316,7 @@ section{
         width: 100%;
     }
 }
-@media (max-width: 300px){
+@media (max-width: 450px){
     .home-text{
         width: 200px;
     }
