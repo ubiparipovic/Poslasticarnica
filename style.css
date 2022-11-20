@@ -318,10 +318,10 @@ section{
 }
 @media (max-width: 450px){
     .home-text{
-        width: 200px;
+        width: 350px;
     }
     .home-text h1{
-        font-size: 15px;
+        font-size: 17px;
     }
     .home-img{
         width: auto;
