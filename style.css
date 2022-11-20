@@ -311,3 +311,19 @@ section{
         width: 100%;
     }
 }
+@media (max-width: 575px){
+    .col{
+        width: 100%;
+    }
+}
+@media (max-width: 300px){
+    .home-text{
+        width: 200px;
+    }
+    .home-text h1{
+        font-size: 15px;
+    }
+    .home-img{
+        width: auto;
+    }
+}
