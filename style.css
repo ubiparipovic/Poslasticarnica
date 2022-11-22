@@ -312,6 +312,9 @@ section{
     }
 }
 @media (max-width: 320px){
+    .home{
+        width:300px;
+    }
     .home-text{
         width: 150x;
     }
