@@ -311,14 +311,9 @@ section{
         width: 100%;
     }
 }
-@media (max-width: 575px){
-    .col{
-        width: 100%;
-    }
-}
 @media (max-width: 450px){
     .home-text{
-        width: 350px;
+        width: 200px;
     }
     .home-text h1{
         font-size: 17px;
