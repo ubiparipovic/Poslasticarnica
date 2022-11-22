@@ -311,9 +311,9 @@ section{
         width: 100%;
     }
 }
-@media (max-width: 450px){
+@media (max-width: 320px){
     .home-text{
-        width: 200px;
+        width: 150x;
     }
     .home-text h1{
         font-size: 17px;
