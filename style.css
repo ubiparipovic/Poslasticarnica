@@ -312,13 +312,8 @@ section{
     }
 }
 @media (max-width: 350px){
-    .home-text{
-        width: 350px;
-    }
-    .home-text h1{
-        font-size: 17px;
-    }
-    .home-img{
-        width: auto;
+    .home{
+        grid-template-columns: 1fr;
+        align-items: center;
     }
 }
