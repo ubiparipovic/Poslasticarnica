@@ -311,17 +311,13 @@ section{
         width: 100%;
     }
 }
-@media (max-width: 320px){
-    .home{
-        width:100%;
-    }
-    /*.home-text{
-        width: 150px;
+@media (max-width: 450px){
+    .home-text{
+        width: 300px;
     }
     .home-text h1{
         font-size: 17px;
     }
     .home-img{
         width: auto;
-    }*/
-}
+    }
