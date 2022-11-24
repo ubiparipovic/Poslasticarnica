@@ -313,10 +313,9 @@ section{
 }
 @media (max-width: 320px){
     .home{
-        width:300px;
-        position: center;
+        width:100%;
     }
-    .home-text{
+    /*.home-text{
         width: 150px;
     }
     .home-text h1{
@@ -324,5 +323,5 @@ section{
     }
     .home-img{
         width: auto;
-    }
+    }*/
 }
